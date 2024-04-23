@@ -1,0 +1,70 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\user\\source\\repos\\TapsiriqThreadTaskAsyncAwait\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{21FECCBF-CD74-417F-AB3A-DACFE81D4CA2}|TapsiriqThreadTaskAsyncAwait\\TapsiriqThreadTaskAsyncAwait.csproj|c:\\users\\user\\source\\repos\\tapsiriqthreadtaskasyncawait\\tapsiriqthreadtaskasyncawait\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{21FECCBF-CD74-417F-AB3A-DACFE81D4CA2}|TapsiriqThreadTaskAsyncAwait\\TapsiriqThreadTaskAsyncAwait.csproj|solutionrelative:tapsiriqthreadtaskasyncawait\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{06FBDFC0-614C-4321-93DF-8744D0246B69}|Core\\Core.csproj|c:\\users\\user\\source\\repos\\tapsiriqthreadtaskasyncawait\\core\\models\\service\\asyncmethods.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{06FBDFC0-614C-4321-93DF-8744D0246B69}|Core\\Core.csproj|solutionrelative:core\\models\\service\\asyncmethods.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{06FBDFC0-614C-4321-93DF-8744D0246B69}|Core\\Core.csproj|c:\\users\\user\\source\\repos\\tapsiriqthreadtaskasyncawait\\core\\models\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{06FBDFC0-614C-4321-93DF-8744D0246B69}|Core\\Core.csproj|solutionrelative:core\\models\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Student.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\TapsiriqThreadTaskAsyncAwait\\Core\\Models\\Student.cs",
+              "RelativeDocumentMoniker": "Core\\Models\\Student.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\TapsiriqThreadTaskAsyncAwait\\Core\\Models\\Student.cs",
+              "RelativeToolTip": "Core\\Models\\Student.cs",
+              "ViewState": "AQIAAA8AAAAAAAAAAAAAABAAAAApAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-22T22:21:41.463Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "AsyncMethods.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\TapsiriqThreadTaskAsyncAwait\\Core\\Models\\Service\\AsyncMethods.cs",
+              "RelativeDocumentMoniker": "Core\\Models\\Service\\AsyncMethods.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\TapsiriqThreadTaskAsyncAwait\\Core\\Models\\Service\\AsyncMethods.cs",
+              "RelativeToolTip": "Core\\Models\\Service\\AsyncMethods.cs",
+              "ViewState": "AQIAAA4AAAAAAAAAAAAAwB0AAABzAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-23T07:23:17.744Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\TapsiriqThreadTaskAsyncAwait\\TapsiriqThreadTaskAsyncAwait\\Program.cs",
+              "RelativeDocumentMoniker": "TapsiriqThreadTaskAsyncAwait\\Program.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\TapsiriqThreadTaskAsyncAwait\\TapsiriqThreadTaskAsyncAwait\\Program.cs",
+              "RelativeToolTip": "TapsiriqThreadTaskAsyncAwait\\Program.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAAwDEAAABBAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-22T22:20:28.209Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
